@@ -1,0 +1,866 @@
+{
+  "nombre": "ZANDATE LUNA JOS\u00c9 ANTONIO",
+  "no. control": "17130854",
+  "especialidad": "INGENIERIA EN SISTEMAS COMPUTACIONALES",
+  "inscrito": "S",
+  "semestre": "6",
+  "ingreso": "AGO-DIC 17",
+  "creditos": "142",
+  "creditosTotales": "260",
+  "sexo": "M",
+  "estado": "Vigente",
+  "promedio": 93.93548387096774,
+  "kardex": [{
+    "clave": "A11",
+    "materia": "CALC. DIFERENCL",
+    "creditos": "5",
+    "semestre": "1",
+    "calificacion": "87",
+    "oportunidad": ""
+  }, {
+    "clave": "B11",
+    "materia": "FUND. PROGRAMCN",
+    "creditos": "5",
+    "semestre": "1",
+    "calificacion": "100",
+    "oportunidad": ""
+  }, {
+    "clave": "C11",
+    "materia": "TALLER DE ETICA",
+    "creditos": "4",
+    "semestre": "1",
+    "calificacion": "100",
+    "oportunidad": ""
+  }, {
+    "clave": "D11",
+    "materia": "MATEM. DISCRETA",
+    "creditos": "5",
+    "semestre": "1",
+    "calificacion": "90",
+    "oportunidad": ""
+  }, {
+    "clave": "E11",
+    "materia": "TALLER DE ADMON",
+    "creditos": "4",
+    "semestre": "1",
+    "calificacion": "100",
+    "oportunidad": ""
+  }, {
+    "clave": "F11",
+    "materia": "FUND. INVESTIGA",
+    "creditos": "4",
+    "semestre": "1",
+    "calificacion": "98",
+    "oportunidad": ""
+  }, {
+    "clave": "A12",
+    "materia": "CALCULO INTEGRL",
+    "creditos": "5",
+    "semestre": "2",
+    "calificacion": "100",
+    "oportunidad": ""
+  }, {
+    "clave": "B12",
+    "materia": "PROG. OR. A OBJ",
+    "creditos": "5",
+    "semestre": "2",
+    "calificacion": "99",
+    "oportunidad": ""
+  }, {
+    "clave": "C12",
+    "materia": "DESARROLLO SUST",
+    "creditos": "5",
+    "semestre": "2",
+    "calificacion": "94",
+    "oportunidad": ""
+  }, {
+    "clave": "D12",
+    "materia": "QUIMICA",
+    "creditos": "4",
+    "semestre": "2",
+    "calificacion": "74",
+    "oportunidad": ""
+  }, {
+    "clave": "E12",
+    "materia": "ALGEBRA LINEAL",
+    "creditos": "5",
+    "semestre": "2",
+    "calificacion": "88",
+    "oportunidad": ""
+  }, {
+    "clave": "F12",
+    "materia": "PROB. Y ESTADIS",
+    "creditos": "5",
+    "semestre": "2",
+    "calificacion": "83",
+    "oportunidad": ""
+  }, {
+    "clave": "A13",
+    "materia": "CALCULO VECTORI",
+    "creditos": "5",
+    "semestre": "3",
+    "calificacion": "87",
+    "oportunidad": ""
+  }, {
+    "clave": "B13",
+    "materia": "ESTRUCT.D DATOS",
+    "creditos": "5",
+    "semestre": "3",
+    "calificacion": "100",
+    "oportunidad": ""
+  }, {
+    "clave": "C13",
+    "materia": "CONTAB.FINANCIE",
+    "creditos": "4",
+    "semestre": "3",
+    "calificacion": "100",
+    "oportunidad": ""
+  }, {
+    "clave": "C14",
+    "materia": "FUND. BASES DAT",
+    "creditos": "5",
+    "semestre": "3",
+    "calificacion": "93",
+    "oportunidad": ""
+  }, {
+    "clave": "D13",
+    "materia": "INVEST. DE OPER",
+    "creditos": "4",
+    "semestre": "3",
+    "calificacion": "100",
+    "oportunidad": ""
+  }, {
+    "clave": "F13",
+    "materia": "FISICA GENERAL",
+    "creditos": "5",
+    "semestre": "3",
+    "calificacion": "90",
+    "oportunidad": ""
+  }, {
+    "clave": "A14",
+    "materia": "ECUAC. DIFERENC",
+    "creditos": "5",
+    "semestre": "4",
+    "calificacion": "78",
+    "oportunidad": ""
+  }, {
+    "clave": "A15",
+    "materia": "METOD.NUMERICOS",
+    "creditos": "4",
+    "semestre": "4",
+    "calificacion": "100",
+    "oportunidad": ""
+  }, {
+    "clave": "B14",
+    "materia": "TOP AVANZ PROGR",
+    "creditos": "5",
+    "semestre": "4",
+    "calificacion": "100",
+    "oportunidad": ""
+  }, {
+    "clave": "C15",
+    "materia": "TALL BASE DATOS",
+    "creditos": "4",
+    "semestre": "4",
+    "calificacion": "97",
+    "oportunidad": ""
+  }, {
+    "clave": "C17",
+    "materia": "GRAFICACION",
+    "creditos": "4",
+    "semestre": "4",
+    "calificacion": "100",
+    "oportunidad": ""
+  }, {
+    "clave": "D16",
+    "materia": "SIMULACION",
+    "creditos": "5",
+    "semestre": "4",
+    "calificacion": "95",
+    "oportunidad": ""
+  }, {
+    "clave": "F14",
+    "materia": "P. ELEC. AP.DIG",
+    "creditos": "5",
+    "semestre": "4",
+    "calificacion": "90",
+    "oportunidad": ""
+  }, {
+    "clave": "B15",
+    "materia": "FUND ING SOFTWR",
+    "creditos": "4",
+    "semestre": "5",
+    "calificacion": "100",
+    "oportunidad": ""
+  }, {
+    "clave": "E13",
+    "materia": "SISTEMAS OPERAT",
+    "creditos": "4",
+    "semestre": "5",
+    "calificacion": "96",
+    "oportunidad": ""
+  }, {
+    "clave": "E15",
+    "materia": "FUND TELECOMUNI",
+    "creditos": "4",
+    "semestre": "5",
+    "calificacion": "95",
+    "oportunidad": ""
+  }, {
+    "clave": "F15",
+    "materia": "ARQ.COMPUTADORA",
+    "creditos": "5",
+    "semestre": "5",
+    "calificacion": "93",
+    "oportunidad": ""
+  }, {
+    "clave": "F17",
+    "materia": "PROGRAMAC. WEB",
+    "creditos": "5",
+    "semestre": "5",
+    "calificacion": "100",
+    "oportunidad": ""
+  }, {
+    "clave": "G15",
+    "materia": "TALLER INVEST.I",
+    "creditos": "4",
+    "semestre": "5",
+    "calificacion": "85",
+    "oportunidad": ""
+  }],
+  "cursando": [{
+    "grupo": "A16A",
+    "materia": "LENGUAJES Y AUTOMATAS I",
+    "calif": "0",
+    "semana": {
+      "l": {
+        "inicio": "11:00 AM",
+        "fin": "12:00 PM",
+        "aula": "AA5"
+      },
+      "m": {
+        "inicio": "11:00 AM",
+        "fin": "12:00 PM",
+        "aula": "AA5"
+      },
+      "x": {
+        "inicio": "11:00 AM",
+        "fin": "12:00 PM",
+        "aula": "AA5"
+      },
+      "j": {
+        "inicio": "11:00 AM",
+        "fin": "12:00 PM",
+        "aula": "19J"
+      },
+      "v": {
+        "inicio": "11:00 AM",
+        "fin": "12:00 PM",
+        "aula": "19J"
+      }
+    }
+  }, {
+    "grupo": "A16A",
+    "materia": "LENGUAJES Y AUTOMATAS I",
+    "calif": "0",
+    "semana": {
+      "l": {
+        "inicio": "11:00 AM",
+        "fin": "12:00 PM",
+        "aula": "AA5"
+      },
+      "m": {
+        "inicio": "11:00 AM",
+        "fin": "12:00 PM",
+        "aula": "AA5"
+      },
+      "x": {
+        "inicio": "11:00 AM",
+        "fin": "12:00 PM",
+        "aula": "AA5"
+      },
+      "j": {
+        "inicio": "11:00 AM",
+        "fin": "12:00 PM",
+        "aula": "19J"
+      },
+      "v": {
+        "inicio": "11:00 AM",
+        "fin": "12:00 PM",
+        "aula": "19J"
+      }
+    }
+  }, {
+    "grupo": "A16A",
+    "materia": "LENGUAJES Y AUTOMATAS I",
+    "calif": "0",
+    "semana": {
+      "l": {
+        "inicio": "11:00 AM",
+        "fin": "12:00 PM",
+        "aula": "AA5"
+      },
+      "m": {
+        "inicio": "11:00 AM",
+        "fin": "12:00 PM",
+        "aula": "AA5"
+      },
+      "x": {
+        "inicio": "11:00 AM",
+        "fin": "12:00 PM",
+        "aula": "AA5"
+      },
+      "j": {
+        "inicio": "11:00 AM",
+        "fin": "12:00 PM",
+        "aula": "19J"
+      },
+      "v": {
+        "inicio": "11:00 AM",
+        "fin": "12:00 PM",
+        "aula": "19J"
+      }
+    }
+  }, {
+    "grupo": "A16A",
+    "materia": "LENGUAJES Y AUTOMATAS I",
+    "calif": "0",
+    "semana": {
+      "l": {
+        "inicio": "11:00 AM",
+        "fin": "12:00 PM",
+        "aula": "AA5"
+      },
+      "m": {
+        "inicio": "11:00 AM",
+        "fin": "12:00 PM",
+        "aula": "AA5"
+      },
+      "x": {
+        "inicio": "11:00 AM",
+        "fin": "12:00 PM",
+        "aula": "AA5"
+      },
+      "j": {
+        "inicio": "11:00 AM",
+        "fin": "12:00 PM",
+        "aula": "19J"
+      },
+      "v": {
+        "inicio": "11:00 AM",
+        "fin": "12:00 PM",
+        "aula": "19J"
+      }
+    }
+  }, {
+    "grupo": "A16A",
+    "materia": "LENGUAJES Y AUTOMATAS I",
+    "calif": "0",
+    "semana": {
+      "l": {
+        "inicio": "11:00 AM",
+        "fin": "12:00 PM",
+        "aula": "AA5"
+      },
+      "m": {
+        "inicio": "11:00 AM",
+        "fin": "12:00 PM",
+        "aula": "AA5"
+      },
+      "x": {
+        "inicio": "11:00 AM",
+        "fin": "12:00 PM",
+        "aula": "AA5"
+      },
+      "j": {
+        "inicio": "11:00 AM",
+        "fin": "12:00 PM",
+        "aula": "19J"
+      },
+      "v": {
+        "inicio": "11:00 AM",
+        "fin": "12:00 PM",
+        "aula": "19J"
+      }
+    }
+  }, {
+    "grupo": "E14A",
+    "materia": "TALLER DE SISTEMAS OPERATIVOS",
+    "calif": "0",
+    "semana": {
+      "l": {
+        "inicio": "08:00 AM",
+        "fin": "09:00 AM",
+        "aula": "AA6"
+      },
+      "m": {
+        "inicio": "08:00 AM",
+        "fin": "09:00 AM",
+        "aula": "AA6"
+      },
+      "x": {
+        "inicio": "08:00 AM",
+        "fin": "09:00 AM",
+        "aula": "AA6"
+      },
+      "j": {
+        "inicio": "08:00 AM",
+        "fin": "09:00 AM",
+        "aula": "AA6"
+      },
+      "v": "LIBRE"
+    }
+  }, {
+    "grupo": "E14A",
+    "materia": "TALLER DE SISTEMAS OPERATIVOS",
+    "calif": "0",
+    "semana": {
+      "l": {
+        "inicio": "08:00 AM",
+        "fin": "09:00 AM",
+        "aula": "AA6"
+      },
+      "m": {
+        "inicio": "08:00 AM",
+        "fin": "09:00 AM",
+        "aula": "AA6"
+      },
+      "x": {
+        "inicio": "08:00 AM",
+        "fin": "09:00 AM",
+        "aula": "AA6"
+      },
+      "j": {
+        "inicio": "08:00 AM",
+        "fin": "09:00 AM",
+        "aula": "AA6"
+      },
+      "v": "LIBRE"
+    }
+  }, {
+    "grupo": "E14A",
+    "materia": "TALLER DE SISTEMAS OPERATIVOS",
+    "calif": "0",
+    "semana": {
+      "l": {
+        "inicio": "08:00 AM",
+        "fin": "09:00 AM",
+        "aula": "AA6"
+      },
+      "m": {
+        "inicio": "08:00 AM",
+        "fin": "09:00 AM",
+        "aula": "AA6"
+      },
+      "x": {
+        "inicio": "08:00 AM",
+        "fin": "09:00 AM",
+        "aula": "AA6"
+      },
+      "j": {
+        "inicio": "08:00 AM",
+        "fin": "09:00 AM",
+        "aula": "AA6"
+      },
+      "v": "LIBRE"
+    }
+  }, {
+    "grupo": "E14A",
+    "materia": "TALLER DE SISTEMAS OPERATIVOS",
+    "calif": "0",
+    "semana": {
+      "l": {
+        "inicio": "08:00 AM",
+        "fin": "09:00 AM",
+        "aula": "AA6"
+      },
+      "m": {
+        "inicio": "08:00 AM",
+        "fin": "09:00 AM",
+        "aula": "AA6"
+      },
+      "x": {
+        "inicio": "08:00 AM",
+        "fin": "09:00 AM",
+        "aula": "AA6"
+      },
+      "j": {
+        "inicio": "08:00 AM",
+        "fin": "09:00 AM",
+        "aula": "AA6"
+      },
+      "v": "LIBRE"
+    }
+  }, {
+    "grupo": "E16A",
+    "materia": "REDES DE COMPUTADORAS",
+    "calif": "0",
+    "semana": {
+      "l": {
+        "inicio": "10:00 AM",
+        "fin": "11:00 AM",
+        "aula": "AA1"
+      },
+      "m": {
+        "inicio": "10:00 AM",
+        "fin": "11:00 AM",
+        "aula": "AA1"
+      },
+      "x": {
+        "inicio": "10:00 AM",
+        "fin": "11:00 AM",
+        "aula": "AA1"
+      },
+      "j": {
+        "inicio": "10:00 AM",
+        "fin": "11:00 AM",
+        "aula": "AA1"
+      },
+      "v": {
+        "inicio": "10:00 AM",
+        "fin": "11:00 AM",
+        "aula": "AA1"
+      }
+    }
+  }, {
+    "grupo": "E16A",
+    "materia": "REDES DE COMPUTADORAS",
+    "calif": "0",
+    "semana": {
+      "l": {
+        "inicio": "10:00 AM",
+        "fin": "11:00 AM",
+        "aula": "AA1"
+      },
+      "m": {
+        "inicio": "10:00 AM",
+        "fin": "11:00 AM",
+        "aula": "AA1"
+      },
+      "x": {
+        "inicio": "10:00 AM",
+        "fin": "11:00 AM",
+        "aula": "AA1"
+      },
+      "j": {
+        "inicio": "10:00 AM",
+        "fin": "11:00 AM",
+        "aula": "AA1"
+      },
+      "v": {
+        "inicio": "10:00 AM",
+        "fin": "11:00 AM",
+        "aula": "AA1"
+      }
+    }
+  }, {
+    "grupo": "E16A",
+    "materia": "REDES DE COMPUTADORAS",
+    "calif": "0",
+    "semana": {
+      "l": {
+        "inicio": "10:00 AM",
+        "fin": "11:00 AM",
+        "aula": "AA1"
+      },
+      "m": {
+        "inicio": "10:00 AM",
+        "fin": "11:00 AM",
+        "aula": "AA1"
+      },
+      "x": {
+        "inicio": "10:00 AM",
+        "fin": "11:00 AM",
+        "aula": "AA1"
+      },
+      "j": {
+        "inicio": "10:00 AM",
+        "fin": "11:00 AM",
+        "aula": "AA1"
+      },
+      "v": {
+        "inicio": "10:00 AM",
+        "fin": "11:00 AM",
+        "aula": "AA1"
+      }
+    }
+  }, {
+    "grupo": "E16A",
+    "materia": "REDES DE COMPUTADORAS",
+    "calif": "0",
+    "semana": {
+      "l": {
+        "inicio": "10:00 AM",
+        "fin": "11:00 AM",
+        "aula": "AA1"
+      },
+      "m": {
+        "inicio": "10:00 AM",
+        "fin": "11:00 AM",
+        "aula": "AA1"
+      },
+      "x": {
+        "inicio": "10:00 AM",
+        "fin": "11:00 AM",
+        "aula": "AA1"
+      },
+      "j": {
+        "inicio": "10:00 AM",
+        "fin": "11:00 AM",
+        "aula": "AA1"
+      },
+      "v": {
+        "inicio": "10:00 AM",
+        "fin": "11:00 AM",
+        "aula": "AA1"
+      }
+    }
+  }, {
+    "grupo": "E16A",
+    "materia": "REDES DE COMPUTADORAS",
+    "calif": "0",
+    "semana": {
+      "l": {
+        "inicio": "10:00 AM",
+        "fin": "11:00 AM",
+        "aula": "AA1"
+      },
+      "m": {
+        "inicio": "10:00 AM",
+        "fin": "11:00 AM",
+        "aula": "AA1"
+      },
+      "x": {
+        "inicio": "10:00 AM",
+        "fin": "11:00 AM",
+        "aula": "AA1"
+      },
+      "j": {
+        "inicio": "10:00 AM",
+        "fin": "11:00 AM",
+        "aula": "AA1"
+      },
+      "v": {
+        "inicio": "10:00 AM",
+        "fin": "11:00 AM",
+        "aula": "AA1"
+      }
+    }
+  }, {
+    "grupo": "F16A",
+    "materia": "LENGUAJES DE INTERFAZ",
+    "calif": "0",
+    "semana": {
+      "l": {
+        "inicio": "09:00 AM",
+        "fin": "10:00 AM",
+        "aula": "19C"
+      },
+      "m": {
+        "inicio": "09:00 AM",
+        "fin": "10:00 AM",
+        "aula": "AA4"
+      },
+      "x": {
+        "inicio": "09:00 AM",
+        "fin": "10:00 AM",
+        "aula": "AA4"
+      },
+      "j": {
+        "inicio": "09:00 AM",
+        "fin": "10:00 AM",
+        "aula": "AA2"
+      },
+      "v": "LIBRE"
+    }
+  }, {
+    "grupo": "F16A",
+    "materia": "LENGUAJES DE INTERFAZ",
+    "calif": "0",
+    "semana": {
+      "l": {
+        "inicio": "09:00 AM",
+        "fin": "10:00 AM",
+        "aula": "19C"
+      },
+      "m": {
+        "inicio": "09:00 AM",
+        "fin": "10:00 AM",
+        "aula": "AA4"
+      },
+      "x": {
+        "inicio": "09:00 AM",
+        "fin": "10:00 AM",
+        "aula": "AA4"
+      },
+      "j": {
+        "inicio": "09:00 AM",
+        "fin": "10:00 AM",
+        "aula": "AA2"
+      },
+      "v": "LIBRE"
+    }
+  }, {
+    "grupo": "F16A",
+    "materia": "LENGUAJES DE INTERFAZ",
+    "calif": "0",
+    "semana": {
+      "l": {
+        "inicio": "09:00 AM",
+        "fin": "10:00 AM",
+        "aula": "19C"
+      },
+      "m": {
+        "inicio": "09:00 AM",
+        "fin": "10:00 AM",
+        "aula": "AA4"
+      },
+      "x": {
+        "inicio": "09:00 AM",
+        "fin": "10:00 AM",
+        "aula": "AA4"
+      },
+      "j": {
+        "inicio": "09:00 AM",
+        "fin": "10:00 AM",
+        "aula": "AA2"
+      },
+      "v": "LIBRE"
+    }
+  }, {
+    "grupo": "F16A",
+    "materia": "LENGUAJES DE INTERFAZ",
+    "calif": "0",
+    "semana": {
+      "l": {
+        "inicio": "09:00 AM",
+        "fin": "10:00 AM",
+        "aula": "19C"
+      },
+      "m": {
+        "inicio": "09:00 AM",
+        "fin": "10:00 AM",
+        "aula": "AA4"
+      },
+      "x": {
+        "inicio": "09:00 AM",
+        "fin": "10:00 AM",
+        "aula": "AA4"
+      },
+      "j": {
+        "inicio": "09:00 AM",
+        "fin": "10:00 AM",
+        "aula": "AA2"
+      },
+      "v": "LIBRE"
+    }
+  }, {
+    "grupo": "G16A",
+    "materia": "TALLER DE INVESTIGACION II",
+    "calif": "0",
+    "semana": {
+      "l": {
+        "inicio": "12:00 PM",
+        "fin": "13:00 PM",
+        "aula": "19J"
+      },
+      "m": {
+        "inicio": "12:00 PM",
+        "fin": "13:00 PM",
+        "aula": "19J"
+      },
+      "x": {
+        "inicio": "12:00 PM",
+        "fin": "13:00 PM",
+        "aula": "19J"
+      },
+      "j": {
+        "inicio": "12:00 PM",
+        "fin": "13:00 PM",
+        "aula": "19J"
+      },
+      "v": "LIBRE"
+    }
+  }, {
+    "grupo": "G16A",
+    "materia": "TALLER DE INVESTIGACION II",
+    "calif": "0",
+    "semana": {
+      "l": {
+        "inicio": "12:00 PM",
+        "fin": "13:00 PM",
+        "aula": "19J"
+      },
+      "m": {
+        "inicio": "12:00 PM",
+        "fin": "13:00 PM",
+        "aula": "19J"
+      },
+      "x": {
+        "inicio": "12:00 PM",
+        "fin": "13:00 PM",
+        "aula": "19J"
+      },
+      "j": {
+        "inicio": "12:00 PM",
+        "fin": "13:00 PM",
+        "aula": "19J"
+      },
+      "v": "LIBRE"
+    }
+  }, {
+    "grupo": "G16A",
+    "materia": "TALLER DE INVESTIGACION II",
+    "calif": "0",
+    "semana": {
+      "l": {
+        "inicio": "12:00 PM",
+        "fin": "13:00 PM",
+        "aula": "19J"
+      },
+      "m": {
+        "inicio": "12:00 PM",
+        "fin": "13:00 PM",
+        "aula": "19J"
+      },
+      "x": {
+        "inicio": "12:00 PM",
+        "fin": "13:00 PM",
+        "aula": "19J"
+      },
+      "j": {
+        "inicio": "12:00 PM",
+        "fin": "13:00 PM",
+        "aula": "19J"
+      },
+      "v": "LIBRE"
+    }
+  }, {
+    "grupo": "G16A",
+    "materia": "TALLER DE INVESTIGACION II",
+    "calif": "0",
+    "semana": {
+      "l": {
+        "inicio": "12:00 PM",
+        "fin": "13:00 PM",
+        "aula": "19J"
+      },
+      "m": {
+        "inicio": "12:00 PM",
+        "fin": "13:00 PM",
+        "aula": "19J"
+      },
+      "x": {
+        "inicio": "12:00 PM",
+        "fin": "13:00 PM",
+        "aula": "19J"
+      },
+      "j": {
+        "inicio": "12:00 PM",
+        "fin": "13:00 PM",
+        "aula": "19J"
+      },
+      "v": "LIBRE"
+    }
+  }]
+}
