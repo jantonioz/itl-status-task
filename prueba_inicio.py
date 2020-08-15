@@ -1,4 +1,4 @@
-import time
+''' import time
 import json
 from WebServiceReq import WebRequest
 from WebScrapper import WebScrapper
@@ -14,4 +14,18 @@ scrapper = WebScrapper(req, alumnoNoControl)
 scrapper.load()
 
 
-print("--- %s seconds ---" % (time.time() - start_time))
+print("--- %s seconds ---" % (time.time() - start_time)) '''
+
+
+from MainWebService import MainWebService
+
+print('Starting')
+
+webService = MainWebService()
+hiddenValues = webService.extractLoginHiddenValues()
+result = webService.doLogin(hiddenValues, '17130854', 'tc5120lag')
+kardex = webService.getKardex()
+
+# print(hiddenValues)
+# print(result.text)
+print(kardex)
