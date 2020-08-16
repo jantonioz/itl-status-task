@@ -1,5 +1,6 @@
 {
   "workbench.colorCustomizations": {
+    "editor.background": "#282C34",
     "list.activeSelectionForeground": "#E57373",
     "list.inactiveSelectionForeground": "#E57373",
     "list.highlightForeground": "#E57373",

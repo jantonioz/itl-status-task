@@ -2,7 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-
 class MainWebService:
     def __init__(self):
         self.loginUrl = 'http://apps2.itlalaguna.edu.mx/StatusAlumno/login.aspx'
@@ -41,4 +40,8 @@ class MainWebService:
 
     def getKardex(self):
         result = self.session.get(self.kardexUrl)
+        return result.text
+
+    def getCarga(self): 
+        result = self.session.get(self.cargaFormUrl)
         return result.text
