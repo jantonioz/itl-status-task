@@ -8,12 +8,6 @@ import time
 
 from flask import Flask
 
-try:
-    import googleclouddebugger
-    googleclouddebugger.enable()
-except ImportError:
-    pass
-
 
 def setConfiguration(db, _updateGrupos, _updateAlumnos):
     configCollection = db['Config']

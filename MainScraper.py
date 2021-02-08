@@ -21,7 +21,7 @@ class MainScraper:
         cargaScraper = BeautifulSoup(self.webReq.getCarga(), 'html.parser')
         self.studentName = cargaScraper.find_all(
             'span',  id='MainContent_lblNombre')[0]
-        return self.studentName.text
+        return {'name': self.studentName.text}
 
     def getKardex(self):
         kardexHtml = self.webReq.getKardex()
@@ -32,6 +32,15 @@ class MainScraper:
         kardexRows = self.getTableRows(kardexTable)
         # print(json.dumps(kardexRows))
         return kardexRows
+
+    def getKardexProperties(self, key):
+        key = key.replace(' ', '')
+        tableDict = {'Calificación': 'grade', 'Clave': 'key',
+                     'Materia': 'subject', 'Periodo1': 'date', 'Semestre1': 'semester', }
+        if not key in tableDict:
+            # print(key)
+            return None
+        return tableDict[key]
 
     def getTableRows(self, tableScraper):
         rows = []
@@ -45,9 +54,15 @@ class MainScraper:
             row = {}
             colId = 0
             for header in headerValues:
-                row[header.text] = rowValues[colId].text
+                key = self.getKardexProperties(header.text)
+
+                if key == 'grade' or key == 'semester':
+                    row[key] = int(rowValues[colId].text)
+                elif key is not None:
+                    row[key] = rowValues[colId].text
+
                 colId = colId + 1
-            
+
             rows.append(row)
 
         return rows
@@ -58,7 +73,7 @@ class MainScraper:
 
         cargaTable = scrapper.find('table', id='MainContent_GridView1')
         if not cargaTable:
-            return []
+            return {'carga': []}
         cargaRows = self.getTableRows(cargaTable)
 
-        return cargaRows
+        return {'carga': cargaRows}

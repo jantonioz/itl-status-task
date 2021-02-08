@@ -8,7 +8,7 @@
       "name": "Python: Archivo actual",
       "type": "python",
       "request": "launch",
-      "program": "prueba_inicio.py",
+      "program": "api.py",
       "console": "integratedTerminal"
     }
   ]
