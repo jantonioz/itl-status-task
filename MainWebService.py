@@ -6,7 +6,7 @@ class MainWebService:
     def __init__(self):
         self.loginUrl = 'http://apps2.itlalaguna.edu.mx/StatusAlumno/login.aspx'
         self.seleccionaFormUrl = 'http://apps2.itlalaguna.edu.mx/StatusAlumno/frmSelecciona.aspx'
-        self.cargaFormUrl = 'http://apps2.itlalaguna.edu.mx/StatusAlumno/alumnos/frmCargaAcademicaCal.aspx'
+        self.cargaFormUrl = 'http://apps2.itlalaguna.edu.mx/StatusAlumno/alumnos/frmCargaAcademica.aspx'
         self.kardexUrl = 'http://apps2.itlalaguna.edu.mx/StatusAlumno/alumnos/frmKardex.aspx'
         self.session = requests.Session()
 

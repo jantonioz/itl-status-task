@@ -29,11 +29,11 @@ class MainScraper:
 
         self.studentName = scraper.find_all('a', id='studentName')
         kardexTable = scraper.find('table', id='MainContent_GridView1')
-        kardexRows = self.getKardexRows(kardexTable)
+        kardexRows = self.getTableRows(kardexTable)
         # print(json.dumps(kardexRows))
         return kardexRows
 
-    def getKardexRows(self, tableScraper):
+    def getTableRows(self, tableScraper):
         rows = []
         tableRows = tableScraper.find_all('tr')
         tableHeader = tableRows[0]
@@ -51,3 +51,14 @@ class MainScraper:
             rows.append(row)
 
         return rows
+
+    def getCarga(self):
+        cargaHtml = self.webReq.getCarga()
+        scrapper = BeautifulSoup(cargaHtml, 'html.parser')
+
+        cargaTable = scrapper.find('table', id='MainContent_GridView1')
+        if not cargaTable:
+            return []
+        cargaRows = self.getTableRows(cargaTable)
+
+        return cargaRows

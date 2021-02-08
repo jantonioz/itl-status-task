@@ -30,8 +30,6 @@
     "editorWarning.border": "#ffAA00",
     "editorError.foreground": "#ff0000",
     "editorError.border": "#ff0000",
-    "statusBar.debuggingBackground": "#000",
-    "statusBar.debuggingForeground": "#fff",
     "editorLineNumber.foreground": "#ffffff8e",
     "editorIndentGuide.background": "#ffffff28",
     "editorCursor.foreground": "#0f0"
