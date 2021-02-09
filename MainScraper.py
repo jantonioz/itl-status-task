@@ -36,7 +36,7 @@ class MainScraper:
     def getKardexProperties(self, key):
         key = key.replace(' ', '')
         tableDict = {'Calificación': 'grade', 'Clave': 'key',
-                     'Materia': 'subject', 'Periodo1': 'date', 'Semestre1': 'semester', }
+                     'Materia': 'subject', 'Periodo1': 'date', 'Semestre1': 'semester', 'Grupo': 'group', 'Profesor': 'professor', 'Lunes': 'monday', 'Martes': 'tuesday', 'Miercoles': 'wednesday', 'Jueves': 'thursday', 'Viernes': 'friday'}
         if not key in tableDict:
             # print(key)
             return None
@@ -54,6 +54,7 @@ class MainScraper:
             row = {}
             colId = 0
             for header in headerValues:
+                print(header.text)
                 key = self.getKardexProperties(header.text)
 
                 if key == 'grade' or key == 'semester':
