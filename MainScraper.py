@@ -54,7 +54,6 @@ class MainScraper:
             row = {}
             colId = 0
             for header in headerValues:
-                print(header.text)
                 key = self.getKardexProperties(header.text)
 
                 if key == 'grade' or key == 'semester':
