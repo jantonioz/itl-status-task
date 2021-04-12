@@ -50,7 +50,7 @@ def test_hw():
 
 
 if __name__ == '__main__':
-    if os.getenv('ENV') is 'DEV':
+    if os.getenv('ENV') == 'DEV':
         app.run(host='localhost', port=8080, debug=True)
     else:
         from waitress import serve
