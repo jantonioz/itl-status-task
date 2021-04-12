@@ -2,6 +2,7 @@ from flask import request, Flask
 
 from MainWebService import MainWebService
 from MainScraper import MainScraper
+import os
 
 app = Flask(__name__)
 
@@ -49,4 +50,8 @@ def test_hw():
 
 
 if __name__ == '__main__':
-    app.run(host='localhost', port=8080, debug=True)
+    if os.getenv('ENV') is 'DEV':
+        app.run(host='localhost', port=8080, debug=True)
+    else:
+        from waitress import serve
+        serve(app, host="0.0.0.0", port=8080)
